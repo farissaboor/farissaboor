@@ -8,7 +8,7 @@
 <p align="center">
   🎓 <b>Computer Software Engineering Student | Toronto Metropolitan University</b>  
   <br>
-  💻 Aspiring Software Engineer | Passionate about Technology and Innovation
+  💻 Aspiring Computer Engineer | Passionate about Technology and Innovation
 </p>
 
 ---
@@ -22,13 +22,6 @@ My work has involved **UI/UX design, API integration, app performance optimizati
 
 In addition, I’ve gained experience as an **Instructor**, where I strengthened my skills in **client communication, teamwork, and leadership**.  
 I’m a **self-motivated learner**, continuously expanding my skills in programming and modern software tools.  
-
----
-
-### 💻 Coding Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/farissaboor/farissaboor/main/coding-animation.gif" alt="Coding Animation" width="600"/>
-</p>
 
 ---
 
