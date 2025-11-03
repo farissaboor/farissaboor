@@ -11,7 +11,19 @@
   💻 Aspiring Computer Engineer | Passionate about Technology and Innovation
 </p>
 
+
+--- 
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="600" height="auto"/>
+</p>
+
+<p align="center">
+  <i>"Code. Compile. Create. Repeat."</i>
+</p>
+
 ---
+
 
 ### 🧠 About Me
 
